@@ -98,7 +98,16 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="images\layerA.gif" />
-    <Resource Include="images\layerA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="images\Eye_1.png" />
+    <Resource Include="images\Eye_2.png" />
+    <Resource Include="images\Hair_1.png" />
+    <Resource Include="images\Hair_2.png" />
+    <Resource Include="images\Mouth_1.png" />
+    <Resource Include="images\Mouth_2.png" />
+    <Resource Include="images\Nose_1.png" />
+    <Resource Include="images\Nose_2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

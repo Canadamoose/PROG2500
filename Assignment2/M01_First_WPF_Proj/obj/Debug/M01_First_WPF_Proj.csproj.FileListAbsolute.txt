@@ -1,0 +1,15 @@
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\bin\Debug\M01_First_WPF_Proj.exe.config
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\bin\Debug\M01_First_WPF_Proj.exe
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\bin\Debug\M01_First_WPF_Proj.pdb
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\M01_First_WPF_Proj.csproj.AssemblyReference.cache
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\MainWindow.g.cs
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\App.g.cs
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\M01_First_WPF_Proj_MarkupCompile.cache
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\M01_First_WPF_Proj_MarkupCompile.lref
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\MainWindow.baml
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\M01_First_WPF_Proj.g.resources
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\M01_First_WPF_Proj.Properties.Resources.resources
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\M01_First_WPF_Proj.csproj.GenerateResource.cache
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\M01_First_WPF_Proj.csproj.CoreCompileInputs.cache
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\M01_First_WPF_Proj.exe
+C:\Users\canad\Code\PROG2500\Assignment2\M01_First_WPF_Proj\obj\Debug\M01_First_WPF_Proj.pdb
