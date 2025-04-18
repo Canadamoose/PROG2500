@@ -1,0 +1,24 @@
+﻿<Window x:Class="kin4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="699" Width="608">
+    <Grid Margin="0,0,0,0">
+        <Image x:Name="ColorImageElement" Margin="0,0,0,0" Height="678" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="Text_Output" 
+                 HorizontalAlignment="Left" 
+                 Height="617" 
+                 Margin="85,37,0,0" 
+                 Text="Output" 
+                 VerticalAlignment="Top" 
+                 Width="493" 
+                 VerticalScrollBarVisibility="Visible"
+                 IsEnabled="True"/>
+        <Button Content="Clear" Click="Clear_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="46,47,0,0" />
+        <Button x:Name="Synch_Button" Content="Synch" HorizontalAlignment="Left" Margin="8,148,0,0" VerticalAlignment="Top" Width="75" Click="Synch_Button_Click"/>
+        <Button x:Name="NotSynch_button" Content="NotSynch" HorizontalAlignment="Left" Margin="7,173,0,0" VerticalAlignment="Top" Width="74" Click="NotSynch_button_Click" Height="20"/>
+        <Button x:Name="Run_Background_Synch_Button" Content="Bckgrnd Synch"  HorizontalAlignment="Left" Margin="1,253,0,0" VerticalAlignment="Top" Click="Run_Background_Synch_Button_Click"/>
+        <Button x:Name="Run_Background_NotSynch_Button" Content="Bckgrnd NotS"  HorizontalAlignment="Left" Margin="3,278,0,0" VerticalAlignment="Top" Width="82" Click="Run_Background_NotSynch_Button_Click"/>
+        <Button x:Name="Say_Hi_Button" Content="Say Hi!" HorizontalAlignment="Left" Margin="39,80,0,0" VerticalAlignment="Top" Click="Say_Hi_Button_Click"/>
+    </Grid>
+</Window>

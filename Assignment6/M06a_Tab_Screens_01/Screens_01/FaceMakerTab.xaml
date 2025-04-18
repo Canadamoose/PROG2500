@@ -1,0 +1,63 @@
+﻿<UserControl x:Class="Screens_01.FaceMakerTab"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="620" d:DesignWidth="800">
+    <Grid x:Name="myGrid" Height="600" Width="800" Margin="0">
+        <Canvas x:Name="myCanvas" HorizontalAlignment="Left" Height="550" Margin="240,10,0,0" VerticalAlignment="Top" Width="550">
+            <Image Name="hairImage" Width="400" Height="100" Canvas.Left="50" Canvas.Top="0"/>
+            <Image Name="eyeImage" Width="400" Height="100" Canvas.Left="50" Canvas.Top="100"/>
+            <Image Name="noseImage" Width="400" Height="100" Canvas.Left="50" Canvas.Top="200"/>
+            <Image Name="mouthImage" Width="400" Height="100" Canvas.Left="50" Canvas.Top="300"/>
+        </Canvas>
+        <Grid x:Name="myGrid2" Margin="5, 0, 600, 390">
+            <Border BorderBrush="#FF179AC8" BorderThickness="3"/>
+            <Border BorderBrush="black" Margin="5, 5, 0, 0"  BorderThickness="2" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <StackPanel >
+                    <Button x:Name="hairButtonL" Content="Hair1" Width="50" Margin="10" Click="btnHairPrev_Click"/>
+                    <Button x:Name="hairButtonR" Content="Hair2" Width="50" Margin="10" Click="btnHairNext_Click" />
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="black" Margin="85, 5, 0, 0" BorderThickness="2" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <StackPanel >
+                    <Button x:Name="eyeButtonL" Content="Eye1" Width="50" Margin="10" Click="btnEyePrev_Click"/>
+                    <Button x:Name="eyeButtonR" Content="Eye2" Width="50" Margin="10" Click="btnEyeNext_Click" />
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="black" Margin="5, 95, 0, 0" BorderThickness="2" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <StackPanel >
+                    <Button x:Name="noseButtonL" Content="Nose1" Width="50" Margin="10" Click="btnNosePrev_Click"/>
+                    <Button x:Name="noseButtonR" Content="Nose2" Width="50" Margin="10" Click="btnNoseNext_Click" />
+                </StackPanel>
+            </Border>
+            <Border BorderBrush="black" Margin="85, 95, 0, 0" BorderThickness="2" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <StackPanel >
+                    <Button x:Name="mouthButtonL" Content="Mouth1" Width="50" Margin="10" Click="btnMouthPrev_Click"/>
+                    <Button x:Name="mouthButtonR" Content="Mouth2" Width="50" Margin="10" Click="btnMouthNext_Click" />
+                </StackPanel>
+            </Border>
+            <CheckBox x:Name="checkBox" Content="CheckBox" HorizontalAlignment="Left" Margin="43,185,0,0" VerticalAlignment="Top" Width="100" Checked="checkBox_Checked"/>
+        </Grid>
+        <Grid x:Name="outerGrid1" Margin="5, 215, 600, 200">
+            <Border BorderBrush="#FF179AC8" BorderThickness="3"  />
+            <Label Content="Pick one" HorizontalAlignment="Left" Margin="36,10,0,0" VerticalAlignment="Top"/>
+            <ComboBox x:Name="comboTest" HorizontalAlignment="Left" Margin="25,50,0,0" VerticalAlignment="Top" Width="120" 
+                 SelectedIndex="2"
+                 SelectionChanged="comboTest_SelectionChanged">
+                <ComboBoxItem Content="Alice"/>
+                <ComboBoxItem Content="Bob"/>
+                <ComboBoxItem Content="Charlie"/>
+                <ComboBoxItem Content="ComboBoxItem"/>
+            </ComboBox>
+            <Label Content="Slide one" HorizontalAlignment="Left" Margin="41,100,0,0" VerticalAlignment="Top"/>
+            <Slider x:Name="sliderTest" HorizontalAlignment="Left" Margin="25,150,0,0" VerticalAlignment="Top" Width="120" ValueChanged="sliderTest_ValueChanged" SelectionEnd="100" SelectionStart="1" IsSelectionRangeEnabled="True" TickPlacement="BottomRight" Value="5" Minimum="-4"/>
+        </Grid>
+        <Grid x:Name="outerGrid2" Margin="5,405,600,20" >
+            <Border BorderBrush="#FF179AC8" BorderThickness="3"  />
+            <Button x:Name="randomFace" Content="Random" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="76" Click="Add_Face_Click" Margin="34,65,0,0"/>
+            <Button x:Name="buttonTest" Content="Button" HorizontalAlignment="Left"  VerticalAlignment="Top" Width="75" Click="buttonTest_Click" Margin="38,131,0,0"/>
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,10 @@
+First Name: random
+                                Last Name: rando
+                                Address: random street
+                                Occupation: Manager
+                                Hobby: Gaming
+                                Hair: 1
+                                Eyes: 1
+                                Nose: 1
+                                Mouth: 1
+                                Pet Preference: Cat

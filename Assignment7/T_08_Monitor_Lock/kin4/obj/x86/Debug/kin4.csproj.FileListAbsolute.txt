@@ -1,0 +1,14 @@
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\bin\Debug\kin4.exe.config
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\bin\Debug\kin4.exe
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\bin\Debug\kin4.pdb
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\kin4.csproj.AssemblyReference.cache
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\MainWindow.baml
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\MainWindow.g.cs
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\App.g.cs
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\kin4_MarkupCompile.cache
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\kin4.g.resources
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\kin4.Properties.Resources.resources
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\kin4.csproj.GenerateResource.cache
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\kin4.csproj.CoreCompileInputs.cache
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\kin4.exe
+C:\Users\canad\Code\PROG2500\Assignment7\T_08_Monitor_Lock\kin4\obj\x86\Debug\kin4.pdb

@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|c:\\users\\canad\\code\\prog2500\\assignment6\\m06a_tab_screens_01\\screens_01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|c:\\users\\canad\\code\\prog2500\\assignment6\\m06a_tab_screens_01\\screens_01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\facemakertab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\facemakertab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\reviewtab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\reviewtab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\basicinfotab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\basicinfotab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\enumtobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\enumtobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\preferencestab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\preferencestab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\facemakertab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\facemakertab.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\basicinfotab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\basicinfotab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\screens_01\\reviewtab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57265CEB-8AA8-4B3B-AA7C-9DE9BABD4A96}|Screens_01\\Screens_01.csproj|solutionrelative:screens_01\\reviewtab.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\obj\\Debug\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Screens_01\\obj\\Debug\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Screens_01\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\App.xaml.cs",
+              "RelativeToolTip": "Screens_01\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T03:24:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasicInfoTab.xaml",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\BasicInfoTab.xaml",
+              "RelativeDocumentMoniker": "Screens_01\\BasicInfoTab.xaml",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\BasicInfoTab.xaml",
+              "RelativeToolTip": "Screens_01\\BasicInfoTab.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T19:13:14.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FaceMakerTab.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\FaceMakerTab.xaml.cs",
+              "RelativeDocumentMoniker": "Screens_01\\FaceMakerTab.xaml.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\FaceMakerTab.xaml.cs",
+              "RelativeToolTip": "Screens_01\\FaceMakerTab.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAD4vxUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:36:12.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\App.xaml",
+              "RelativeDocumentMoniker": "Screens_01\\App.xaml",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\App.xaml",
+              "RelativeToolTip": "Screens_01\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T02:00:07.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Screens_01\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Screens_01\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T21:41:04.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "Screens_01\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\MainViewModel.cs",
+              "RelativeToolTip": "Screens_01\\MainViewModel.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAuwFYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:06:45.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewTab.xaml",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\ReviewTab.xaml",
+              "RelativeDocumentMoniker": "Screens_01\\ReviewTab.xaml",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\ReviewTab.xaml",
+              "RelativeToolTip": "Screens_01\\ReviewTab.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T19:15:43.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PreferencesTab.xaml",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\PreferencesTab.xaml",
+              "RelativeDocumentMoniker": "Screens_01\\PreferencesTab.xaml",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\PreferencesTab.xaml",
+              "RelativeToolTip": "Screens_01\\PreferencesTab.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T00:08:12.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FaceMakerTab.xaml",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\FaceMakerTab.xaml",
+              "RelativeDocumentMoniker": "Screens_01\\FaceMakerTab.xaml",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\FaceMakerTab.xaml",
+              "RelativeToolTip": "Screens_01\\FaceMakerTab.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T23:33:08.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnumToBooleanConverter.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\EnumToBooleanConverter.cs",
+              "RelativeDocumentMoniker": "Screens_01\\EnumToBooleanConverter.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\EnumToBooleanConverter.cs",
+              "RelativeToolTip": "Screens_01\\EnumToBooleanConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T23:04:45.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Screens_01\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\MainWindow.xaml",
+              "RelativeToolTip": "Screens_01\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T23:58:31.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BasicInfoTab.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\BasicInfoTab.xaml.cs",
+              "RelativeDocumentMoniker": "Screens_01\\BasicInfoTab.xaml.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\BasicInfoTab.xaml.cs",
+              "RelativeToolTip": "Screens_01\\BasicInfoTab.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:45:55.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReviewTab.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\ReviewTab.xaml.cs",
+              "RelativeDocumentMoniker": "Screens_01\\ReviewTab.xaml.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\ReviewTab.xaml.cs",
+              "RelativeToolTip": "Screens_01\\ReviewTab.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T22:46:42.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\obj\\Debug\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "Screens_01\\obj\\Debug\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment6\\M06a_Tab_Screens_01\\Screens_01\\obj\\Debug\\MainWindow.g.cs",
+              "RelativeToolTip": "Screens_01\\obj\\Debug\\MainWindow.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:41:05.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

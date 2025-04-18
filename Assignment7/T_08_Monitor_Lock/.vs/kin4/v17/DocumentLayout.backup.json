@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|c:\\users\\canad\\code\\prog2500\\assignment7\\t_08_monitor_lock\\kin4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|c:\\users\\canad\\code\\prog2500\\assignment7\\t_08_monitor_lock\\kin4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|c:\\users\\canad\\code\\prog2500\\assignment7\\t_08_monitor_lock\\kin4\\notsynched\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\notsynched\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|c:\\users\\canad\\code\\prog2500\\assignment7\\t_08_monitor_lock\\kin4\\synched\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\synched\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|c:\\users\\canad\\code\\prog2500\\assignment7\\t_08_monitor_lock\\kin4\\synched\\dorothy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\synched\\dorothy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|c:\\users\\canad\\code\\prog2500\\assignment7\\t_08_monitor_lock\\kin4\\notsynched\\mythread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\notsynched\\mythread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|c:\\users\\canad\\code\\prog2500\\assignment7\\t_08_monitor_lock\\kin4\\synched\\mythread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\synched\\mythread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|c:\\users\\canad\\code\\prog2500\\assignment7\\t_08_monitor_lock\\kin4\\notsynched\\dorothy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5096D404-D4C8-419F-BD9A-9C1F9C3658E0}|kin4\\kin4.csproj|solutionrelative:kin4\\notsynched\\dorothy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "myThread.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\notsynched\\myThread.cs",
+              "RelativeDocumentMoniker": "kin4\\notsynched\\myThread.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\notsynched\\myThread.cs",
+              "RelativeToolTip": "kin4\\notsynched\\myThread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:30:39.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\notsynched\\Main.cs",
+              "RelativeDocumentMoniker": "kin4\\notsynched\\Main.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\notsynched\\Main.cs",
+              "RelativeToolTip": "kin4\\notsynched\\Main.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:30:30.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\synched\\Main.cs",
+              "RelativeDocumentMoniker": "kin4\\synched\\Main.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\synched\\Main.cs",
+              "RelativeToolTip": "kin4\\synched\\Main.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:20:32.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dorothy.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\synched\\Dorothy.cs",
+              "RelativeDocumentMoniker": "kin4\\synched\\Dorothy.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\synched\\Dorothy.cs",
+              "RelativeToolTip": "kin4\\synched\\Dorothy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:37:20.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "myThread.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\synched\\myThread.cs",
+              "RelativeDocumentMoniker": "kin4\\synched\\myThread.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\synched\\myThread.cs",
+              "RelativeToolTip": "kin4\\synched\\myThread.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:21:05.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "kin4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\MainWindow.xaml",
+              "RelativeToolTip": "kin4\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-13T01:00:08.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "kin4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\MainWindow.xaml.cs",
+              "RelativeToolTip": "kin4\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:22:09.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dorothy.cs",
+              "DocumentMoniker": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\notsynched\\Dorothy.cs",
+              "RelativeDocumentMoniker": "kin4\\notsynched\\Dorothy.cs",
+              "ToolTip": "C:\\Users\\canad\\Code\\PROG2500\\Assignment7\\T_08_Monitor_Lock\\kin4\\notsynched\\Dorothy.cs",
+              "RelativeToolTip": "kin4\\notsynched\\Dorothy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:42:12.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

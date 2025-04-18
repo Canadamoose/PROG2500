@@ -1,0 +1,51 @@
+﻿<Window x:Class="Screens_01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Screens_01"
+        Title="Person Manager" Height="700" Width="1000">
+    <Window.DataContext>
+        <local:MainViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <DataGrid Grid.Row="0"
+              ItemsSource="{Binding People}"
+              SelectedItem="{Binding Person, Mode=TwoWay}"
+              AutoGenerateColumns="False"
+              Margin="10">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="First Name" Binding="{Binding FirstName}"/>
+                <DataGridTextColumn Header="Last Name"  Binding="{Binding LastName}"/>
+                <DataGridTextColumn Header="Occupation" Binding="{Binding SelectedOccupation}"/>
+                <DataGridTextColumn Header="Hobby"      Binding="{Binding SelectedHobby}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <TabControl Grid.Row="1" SelectedIndex="{Binding CurrentTabIndex}" Margin="10">
+            <TabItem Header="Basic Info">
+                <local:BasicInfoTab/>
+            </TabItem>
+            <TabItem Header="Preferences">
+                <local:PreferencesTab/>
+            </TabItem>
+            <TabItem Header="Face Maker">
+                <local:FaceMakerTab/>
+            </TabItem>
+        </TabControl>
+
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+            <Button Content="New"      Command="{Binding NewCommand}"            Margin="5"/>
+            <Button Content="Save"     Command="{Binding SaveCommand}"           Margin="5"/>
+            <Button Content="Delete"   Command="{Binding DeleteCommand}"         Margin="5"/>
+            <Button Content="Previous" Command="{Binding PreviousRecordCommand}" Margin="5"/>
+            <Button Content="Next"     Command="{Binding NextRecordCommand}"     Margin="5"/>
+            <TextBox  Width="150" Text="{Binding SearchLastName}" Margin="5"/>
+            <Button Content="Search"   Command="{Binding SearchCommand}"         Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

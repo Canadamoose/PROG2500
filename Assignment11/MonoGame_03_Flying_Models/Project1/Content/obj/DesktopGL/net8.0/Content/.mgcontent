@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/A.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/B.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/C.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/Cylinder.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/D.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/E.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/F.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/G.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/H.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/I.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/J.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/K.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/L.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/M.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/N.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/O.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/P.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/Q.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/R.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/S.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/Sphere.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/T.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/thing.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/Torus.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/U.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/V.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/W.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/X.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/Y.fbx</File>
+    <File>C:/Users/canad/Code/PROG2500/Assignment11/MonoGame_03_Flying_Models/Project1/Content/Models/Z.fbx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
